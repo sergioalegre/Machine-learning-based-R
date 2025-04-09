@@ -7,7 +7,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 <br />
 <p align="center">
   <a href="https://github.com/sergioalegre/R">
-    <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
+    <img src="https://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><!-- TITULO -->Practicas de R para el grado de machine learning</h3>
@@ -35,7 +35,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 - Machine Learning grade practices using R, TimeSeries, SVM, NLP, Decision Trees.
 <br><br>
 <p align="center">
-    <img src="http://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="850" height="">
+    <img src="https://sergioalegre.es/machine_learning_sergio_alegre.png" alt="Logo" width="850" height="">
 </p>
 
 
